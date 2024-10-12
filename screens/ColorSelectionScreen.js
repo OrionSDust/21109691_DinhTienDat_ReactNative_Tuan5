@@ -52,6 +52,6 @@ const styles = StyleSheet.create({
   doneButtonText: {
     color: '#fff',
     fontWeight: 'bold',
-    fontSize: 16,
+    fontSize: 16, // Kích thước chữ
   },
 });
